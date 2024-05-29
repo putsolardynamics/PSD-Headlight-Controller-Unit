@@ -1,0 +1,3 @@
+headlightmodes.cpp:11:6:void cLights::init(uint_fast16_t)	16	static
+headlightmodes.cpp:19:6:void cLights::set_lights()	16	static
+headlightmodes.cpp:75:6:void cLights::update(uint8_t, uint8_t)	16	static
